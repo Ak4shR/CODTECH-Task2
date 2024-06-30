@@ -23,7 +23,7 @@ Key Activities:
 
 Text Input Interface: Develop a graphical user interface (GUI) using Tkinter to accept and display text input from users.
 
-Image Generation Model Integration: Integrate a pre-trained deep learning based Stable Diffusion model capable of generating images from text descriptions.
+Image Generation Model Integration: Integrate a pre-trained deep learning based Stable Diffusion model from hugging face capable of generating images from text descriptions.
 
 Image Generation: Utilize the integrated model to convert processed text prompts into visually coherent images.
 
